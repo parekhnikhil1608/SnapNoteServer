@@ -1,0 +1,7 @@
+# Auto detect text files and normalize
+* text=auto
+
+# JS/JSON should stay LF
+*.js text eol=lf
+*.json text eol=lf
+*.env text eol=lf
